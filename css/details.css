@@ -1,0 +1,23 @@
+
+/* Side bar finished */
+
+/* Details */
+#productImage{
+  border-radius: 10px;
+}
+
+/* Button */
+#qBtn{
+  text-align: center;
+  align-items: center;
+}
+
+.mag{
+  margin-left: 105px;
+  margin-right: 105px;
+  margin-bottom: 40px;
+}
+
+#magTitle{
+  font-family: 'Lato', sans-serif;
+}
